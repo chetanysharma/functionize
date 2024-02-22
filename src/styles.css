@@ -1,0 +1,14 @@
+/* styles.css */
+
+.headingClass {
+    color: grey;
+    /* margin-bottom: 10px; */
+}
+
+.inlineClass {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* Add more global styles as needed */
